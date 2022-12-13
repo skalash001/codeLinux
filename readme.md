@@ -1,2 +1,3 @@
 hello man, I'm from Jenkins class...
 Poll SCM triggering
+Poll SCM triggering again
